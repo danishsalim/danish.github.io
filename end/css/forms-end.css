@@ -14,7 +14,7 @@ body {
 	width: 80%;
 	margin: 0 auto;
 	padding: 1em;
-	background-color: lightcoral;
+	background-color: green;
 	display: flex;
 	flex-flow: row nowrap;
 }
